@@ -23,7 +23,7 @@ The Tech Blog is a CMS-style blog site similar to a Wordpress site, where develo
   - [Github Repo](https://github.com/larafoster/Tech-Blog) 
 
   View this app on Heroku:
-  - [Heroku - JoinMe](https://joinme-events.herokuapp.com/)
+  - [Heroku - Tech Blog](https://tech-blog-osu.herokuapp.com/)
 
   ## Credits 
   This project is created with the following technologies:
