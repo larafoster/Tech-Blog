@@ -33,7 +33,6 @@ The Tech Blog is a CMS-style blog site similar to a Wordpress site, where develo
   - [Mysql](https://dev.mysql.com/doc/) 
   - [Handlebars](https://www.npmjs.com/package/express-handlebars) 
 
- 
   ## Contribute
    Please feel free to fork this project and create your own branch. Any suggestions for improvement are welcomed.
 
